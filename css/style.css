@@ -1,0 +1,48 @@
+/* TEXT */
+h1 {
+    font-family: 'Roboto Slab', serif;
+    color: #76210d;
+    background: url(../img/squiggly_line.png) no-repeat center bottom;
+    padding-bottom: 18px;
+}
+h2 {
+    font-family: 'Roboto Slab', serif;
+}
+
+
+/* HEADER */
+header {
+    padding: 30px;
+    background: url(../img/BackgroundImage4.jpg) bottom center no-repeat;
+    background-size: cover;
+}
+
+
+
+/* NAVIGATION */
+nav {
+    background-color: #76210d;
+    padding: 10px 0px;
+    margin-bottom: 20px;
+}
+.nav-link {
+    color: white;
+}
+.nav-link:hover {
+    color: red;
+}
+
+
+/* FOOTER */
+footer {
+    background: #76210d;
+    color: white;
+}
+.socialicons {
+    opacity: 1;
+}
+.socialicons:hover {
+    opacity: .6;
+}
+
+
